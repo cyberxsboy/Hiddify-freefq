@@ -168,7 +168,7 @@ We also need financial support for our services. All of our activities are done 
 Hiddify is a community driven project. If you're interested in contributing, please read the [contribution guidelines](./CONTRIBUTING.md). We would specially appreciate any help we can get in these areas: **Flutter, Go, iOS development (Swift), Android development (Kotlin).**
 
 <div align=center>
-
+[免费节点长期更新](https://www.gaofumei.net)
 <br>
 
 [![Email](https://img.shields.io/badge/Email-contribute@hiddify.com-005FF9?style=flat-square&logo=mail.ru)](mailto:contribute@hiddify.com)
